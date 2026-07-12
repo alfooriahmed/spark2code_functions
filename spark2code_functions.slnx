@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="Absolute_Difference/Absolute_Difference.csproj" />
+  <Project Path="Power&amp;_Root_Explorer/Power&amp;_Root_Explorer.csproj" Id="0fb35039-b22a-405c-b7aa-427e949bfdf0" />
+</Solution>
